@@ -1,7 +1,12 @@
+![z1](https://user-images.githubusercontent.com/96653165/147818147-4d128731-0037-4503-ab85-2202e46d9a1d.PNG)
+
 ## Reversi Rules
 Reversi (also known as Othello) is a pretty simple game. It consists of a 8x8 square board, and pieces with one black and one white side. Each player has a color, and the aim of the game is to get more of your pieces on the board than the opponent's pieces.
 
 ## Gameplay
+***
+![z2](https://user-images.githubusercontent.com/96653165/147818150-633bf193-8b29-4d6a-9640-1054d6266936.PNG)
+***
 At the start of the game there are four pieces on the board, two white and two black. You must try to capture opponent pieces and flip them over so they turn into your color. You do this by making a horizontal, vertical or diagonal line of pieces, where your pieces surround the other player's pieces. The surrounded opponent pieces are then captured and will be flipped over to your color, increasing the number of your pieces on the board.
 
 ## Example: 
@@ -13,3 +18,5 @@ If there is no available move on the board that captures pieces then you must sa
 
 ## Winning
 The game ends when the board is full, both players say pass, or one player surrenders. At that time the pieces on the board are counted and the player with more pieces wins.
+
+
