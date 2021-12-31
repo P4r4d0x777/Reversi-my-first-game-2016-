@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cSFF1o8Appp2yIT0m7Ol7GYFgI9wg+U90cE3+ZIDw+JMG4j0kS8uF/k+FAj4QaSOPGWsXqNta2Xzzz4G7kF+qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iverb\\source\\repos\\Reversi\\Reversi\\Reversi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iverb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
